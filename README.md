@@ -28,6 +28,9 @@ Like total books issued , total amount collected , total amount pending etc.
 
 
 
+Technology used :
+
+
 MERN stands for MongoDB, Express, React, and Node, after the four key technologies that make up the stack.
 
 MongoDB - document database
