@@ -42,6 +42,7 @@ React(.js) - a client-side JavaScript framework
 Node(.js) - the premier JavaScript web server
 
 
+some sample Email  and password of user:
 
 For Admin:
  Email - pushkar690@gmail.com
