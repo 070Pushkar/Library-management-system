@@ -1,10 +1,12 @@
 Demo Link - https://library-management-system-gt0x.onrender.com/
 
+Working with different user roles . Every logged in user will be having different user interface.
+
 Librarian and Admin roles for managing the entire application
 
 Issue a book to patron , Renewal the issued book , Process the return operation
 
-Working with different user roles . Every logged in user will be having different user interface.
+
 
 Normal user / patron role for checking the borrowed books and books availability status.
 
